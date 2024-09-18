@@ -9,9 +9,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Logan-Cole-Luna&theme=dracula&hide_border=false)<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Logan-Cole-Luna&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Logan-Cole-Luna&icon=0&color=1)](https://visitcount.itsvg.in)
 
